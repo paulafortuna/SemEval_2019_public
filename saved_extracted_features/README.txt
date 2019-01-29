@@ -1,0 +1,1 @@
+Saving of the extracted features in files.
