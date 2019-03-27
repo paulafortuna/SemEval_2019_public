@@ -21,7 +21,9 @@ This repository replicates one of the most relevant works on the state-of-the-ar
 
 The framework here available provides features and classifiers specially used in this task. Regarding the features, we extract Glove Twitter word embeddings, sentiment  and  frequencies  of  words  from  Hate-base. The last is a set of features developed in ourwork. Regarding the classifiers we used LSTM, SVM and xg-Boost.
 
+
 ## Configuration
+In the [configurations section](https://github.com/paulafortuna/SemEval_2019_public/tree/master/configurations) you can access on how to configure this project.
 
 
 ## The experiments
