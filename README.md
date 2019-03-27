@@ -25,10 +25,9 @@ The framework here available provides features and classifiers specially used in
 ## The experiments
 
 The exact experiments conducted for this paper are available here:
-replication - https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_replication.py 
-hatEval A - https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_hateval_a.py
-offensEval A - https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_offenseval_a.py
-
+- replication [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_replication.py)
+- [hatEval A] [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_hateval_a.py)
+- [offensEval A] [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_offenseval_a.py)
 
 ## Class diagrams
 
