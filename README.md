@@ -26,13 +26,14 @@ The framework here available provides features and classifiers specially used in
 
 The exact experiments conducted for this paper are available here:
 - replication [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_replication.py)
-- [hatEval A] [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_hateval_a.py)
-- [offensEval A] [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_offenseval_a.py)
+- hatEval A [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_hateval_a.py)
+- offensEval A [script](https://github.com/paulafortuna/SemEval_2019_public/blob/master/main_offenseval_a.py)
+
 
 ## Class diagrams
 
 We aimed at developing this project in a modular and extensible way. We used OOP and provide some documentation for it:
-- class diagrams
+-  [class diagrams](https://docs.google.com/presentation/d/1t64DdCrN2avDvKocUBp-2kDHYl5dkT_2M8aRPLiw3u8/edit?usp=sharing)
 
 
 ## Documentation
