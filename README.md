@@ -42,6 +42,5 @@ We aimed at developing this project in a modular and extensible way. We used OOP
 
 ## Documentation
 We also provide an extense documentation helpful for future iterations of this project:
--  [doxygen](https://paulafortuna.github.io/SemEval2019_docs/project_documentation/html/annotated.html)
-(for a better experience download and open the code locally https://github.com/paulafortuna/SemEval2019_docs)
+-  [doxygen](https://paulafortuna.github.io/SemEval2019_docs/docs/hierarchy.html)
 
